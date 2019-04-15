@@ -55,4 +55,4 @@ social:
 markdown: kramdown
 #sass:
 #  style: compressed
-theme: minimal
+theme: jekyll-theme-dinky
